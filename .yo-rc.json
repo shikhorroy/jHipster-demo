@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.roy.demo"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "microservice",
+    "baseName": "jhipsterdemo",
+    "packageName": "com.roy.demo",
+    "packageFolder": "com/roy/demo",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "consul",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGNjZTAwNWFhMGE2ZDU5MWI2MzU2OTE1YzE4YjI0YmQ5ZTNmZjVjNTdjZGQ5MzEwNmIyZjA2ZTM4OWFhN2ZkNGY2ZTZjMWRiOTFmOGQ2OGFkZmJjZDYyZDhkNDE0YTExZmFlYTgwMTViOTI1ZjY0MDVlOWY4MjZiMTc4YjQ2MWI=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
